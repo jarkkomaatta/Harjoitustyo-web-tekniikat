@@ -23,6 +23,17 @@ body{
     height: 250px;
     padding: 50px 0;
 }
+#murmeli {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5%;
+    background-color: #33ccff;
+    height: 250px;
+    padding: 50px 0;
+}
 /*form page */
 #form{
     font-size: 1.5em;
@@ -41,11 +52,7 @@ body{
 .bg-primary{
     background: #33ccff;
 }
-/*dog picture*/
-#doge{
-    max-width: 500px;
-    max-height: 500px;
-}
+
 /*important message*/
 .important {
     border: 2px solid red;
